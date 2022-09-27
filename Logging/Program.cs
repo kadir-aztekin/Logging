@@ -7,7 +7,7 @@ namespace Logging
     {
         static void Main(string[] args)
         {
-            Loglama();
+            Loglama(); 
         }
 
         private static void Loglama()
