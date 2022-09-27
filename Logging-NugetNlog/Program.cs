@@ -9,7 +9,7 @@ namespace Logging_NugetNlog
         {
             Commander test = new Commander();
             test.StartTransaction();
-            test.StopTransaction();
+            test.StopTransaction(); 
             test.DoSomething();
         }
     }
